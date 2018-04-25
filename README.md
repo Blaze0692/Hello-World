@@ -1,2 +1,5 @@
 # Hello-World
-Partiel
+
+git init
+git branch dev
+git merge 
